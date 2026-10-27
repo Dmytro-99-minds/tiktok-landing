@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "upwork": {
+      "source": {
+        "source": "github",
+        "repo": "upwork/upwork-agent-plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "upwork-agent-plugin@upwork": true
+  }
+}
